@@ -1,0 +1,56 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q285183,Geoffrey Clifton-Brown,Q9626,Conservative Party (UK),40258,Q543609,General election 1992,1
+,Edward J. Weston,Q9624,Liberal Democrats (UK),24200,Q543609,General election 1992,2
+,Trevor A. Page,Q9630,Labour Party (UK),7262,Q543609,General election 1992,3
+,R Clayton,Q491782,Natural Law Party,449,Q543609,General election 1992,4
+,PA Trice-Rolph,Q327591,Independent (politician),287,Q543609,General election 1992,5
+Q324805,Nicholas Ridley,Q9626,Conservative Party (UK),36272,Q918472,General election 1987,1
+,Philip Beckerlegge,Q622441,Liberal Party (UK),23610,Q918472,General election 1987,2
+Q5300773,Doug Naysmith,Q9630,Labour Party (UK),5342,Q918472,General election 1987,3
+,MacDonald Curtis,,Male OAP,283,Q918472,General election 1987,4
+Q324805,Nicholas Ridley,Q9626,Conservative Party (UK),34282,Q918466,General election 1983,1
+,Philip T Beckerlegge,Q622441,Liberal Party (UK),20455,Q918466,General election 1983,2
+,TJR Penny,Q9630,Labour Party (UK),5243,Q918466,General election 1983,3
+Q324805,Nicholas Ridley,Q9626,Conservative Party (UK),37651,Q918450,General election 1979,1
+,Philip T Beckerlegge,Q622441,Liberal Party (UK),18057,Q918450,General election 1979,2
+,RS Trafford,Q9630,Labour Party (UK),11575,Q918450,General election 1979,3
+Q324805,Nicholas Ridley,Q9626,Conservative Party (UK),28930,Q918508,General election October 1974,1
+,RG Otter,Q622441,Liberal Party (UK),18770,Q918508,General election October 1974,2
+,JR Booth,Q9630,Labour Party (UK),13973,Q918508,General election October 1974,3
+Q324805,Nicholas Ridley,Q9626,Conservative Party (UK),31163,Q119524,General election February 1974,1
+,RG Otter,Q622441,Liberal Party (UK),20962,Q119524,General election February 1974,2
+,RG Fox,Q9630,Labour Party (UK),13775,Q119524,General election February 1974,3
+Q324805,Nicholas Ridley,Q9626,Conservative Party (UK),30217,Q918442,General election 1970,1
+,Howard G Lovell,Q9630,Labour Party (UK),16131,Q918442,General election 1970,2
+,Denys Robinson,Q622441,Liberal Party (UK),7593,Q918442,General election 1970,3
+Q324805,Nicholas Ridley,Q9626,Conservative Party (UK),27690,Q918430,General election 1966,1
+,Michael George Dalling,Q9630,Labour Party (UK),19919,Q918430,General election 1966,2
+Q324805,Nicholas Ridley,Q9626,Conservative Party (UK),24786,Q220208,General election 1964,1
+,John M Bowyer,Q9630,Labour Party (UK),15518,Q220208,General election 1964,2
+,Arnold Geoffroy de Montmorency,Q622441,Liberal Party (UK),7790,Q220208,General election 1964,3
+Q324805,Nicholas Ridley,Q9626,Conservative Party (UK),28169,Q918420,General election 1959,1
+,John M Bowyer,Q9630,Labour Party (UK),16314,Q918420,General election 1959,2
+Q335323,William Morrison,Q464103,Speaker of the House of Commons (United Kingdom),25372,Q918412,General election 1955,1
+,Douglas C Cox,Q327591,Independent Labour,12394,Q918412,General election 1955,2
+Q335323,William Morrison,Q9626,Conservative Party (UK),26978,Q3722280,General election 1951,1
+,Albert E Sumbler,Q9630,Labour Party (UK),18353,Q3722280,General election 1951,2
+Q335323,William Morrison,Q9626,Conservative Party (UK),23942,Q748667,General election 1950,1
+,R.M Bennett,Q9630,Labour Party (UK),15660,Q748667,General election 1950,2
+,Norman Wilburn Gillett,Q622441,Liberal Party (UK),6102,Q748667,General election 1950,3
+Q335851,Wogan Philipps,Q592068,Communist Party of Great Britain,423,Q748667,General election 1950,4
+Q335323,William Morrison,Q9626,Conservative Party (UK),19490,Q918397,General election 1945,1
+,Alan Ernest Gwynn Hawkins,Q9630,Labour Party (UK),12380,Q918397,General election 1945,2
+,Christopher H Harris,Q622441,Liberal Party (UK),8681,Q918397,General election 1945,3
+Q335323,William Morrison,Q9626,Conservative Party (UK),28170,Q918375,General election 1931,1
+,John Griffin,Q9630,Labour Party (UK),5868,Q918375,General election 1931,2
+Q335323,William Morrison,Q9626,Unionist Party (UK),19584,Q517639,General election 1929,1
+,Christopher a'Beckett Williams,Q622441,Liberal Party (UK),8629,Q517639,General election 1929,2
+,E.W. Fredman,Q9630,Labour Party (UK),6987,Q517639,General election 1929,3
+Q7788877,Thomas Davies,Q9626,Unionist Party (UK),18201,Q2632991,General election 1924,1
+Q6281006,Joseph Alpass,Q9630,Labour Party (UK),7078,Q2632991,General election 1924,2
+Q7788877,Thomas Davies,Q9626,Unionist Party (UK),15406,Q3084294,General election 1923,1
+Q63197302,William Robert Robins,Q9630,Labour Party (UK),7849,Q3084294,General election 1923,2
+Q7788877,Thomas Davies,Q9626,Unionist Party (UK),16463,Q3084303,General election 1922,1
+Q63197302,William Robert Robins,Q9630,Labour Party (UK),9195,Q3084303,General election 1922,2
+Q7788877,Thomas Davies,Q9626,Unionist Party (UK),11171,Q3042701,General election 1918,1
+Q6281006,Joseph Alpass,Q327591,Independent Labour,8546,Q3042701,General election 1918,2
