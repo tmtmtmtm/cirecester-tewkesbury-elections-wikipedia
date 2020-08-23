@@ -1,0 +1,17 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Cirencester_and_Tewkesbury_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q5121881",
+    "start": "1918",
+    "end": "1997"
+  }, {
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
